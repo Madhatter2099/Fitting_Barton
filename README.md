@@ -7,7 +7,7 @@ An array-based fitting method where the target curve is a single-peak asymmetric
 
 fit_csf_normalized.m：主函数，用于拟合单峰曲线。
 
-example_usage.m：示例脚本，演示如何生成数据并进行拟合。
+example_2.m：示例脚本，演示如何生成数据并进行拟合。
 
 A 控制整体幅度，在此代码中固定为 1 以适应归一化数据。
 
@@ -37,7 +37,7 @@ Code file
 
 fit_csf_normalized.m: main function, used to fit a single peak curve.
 
-example_usage.m: example script demonstrating how to generate data and fit it.
+example_2.m: example script demonstrating how to generate data and fit it.
 
 A controls the overall magnitude and is fixed to 1 in this code to accommodate the normalized data.
 
