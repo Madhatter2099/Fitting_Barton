@@ -1,5 +1,6 @@
 # Fitting_Barton
 一种基于数组的拟合方式，目标曲线为单峰不对称曲线。能够自行调整目标峰值对应的坐标与峰值左右的变化速度。基于Zong Qin的代码修改，已于文件中保留源代码与版权信息。
+
 An array-based fitting method where the target curve is a single-peak asymmetric curve. It is able to adjust the coordinates corresponding to the target peak and the speed of change around the peak by itself. Based on the code modified by Zong Qin, the source code and copyright information have been kept in the file.
 
 代码文件
